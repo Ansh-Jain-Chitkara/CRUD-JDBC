@@ -1,2 +1,2 @@
-# CRUD-JDBC-
+# CRUD-JDBC
 CRUD Project using JDBC.
